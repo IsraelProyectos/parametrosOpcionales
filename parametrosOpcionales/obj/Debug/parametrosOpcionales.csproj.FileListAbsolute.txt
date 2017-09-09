@@ -1,3 +1,11 @@
 C:\Users\Israel\AppData\Local\Temporary Projects\parametrosOpcionales\bin\Debug\parametrosOpcionales.exe.config
 C:\Users\Israel\Source\Repos\parametrosOpcionaes\parametrosOpcionales\parametrosOpcionales\bin\Debug\parametrosOpcionales.exe.config
 C:\Users\Israel\Source\Repos\parametrosOpcionales\parametrosOpcionales\bin\Debug\parametrosOpcionales.exe.config
+C:\Users\Israel\Source\Repos\parametrosOpcionales\parametrosOpcionales\bin\Debug\parametrosOpcionales.exe
+C:\Users\Israel\Source\Repos\parametrosOpcionales\parametrosOpcionales\bin\Debug\parametrosOpcionales.pdb
+C:\Users\Israel\Source\Repos\parametrosOpcionales\parametrosOpcionales\obj\Debug\parametrosOpcionales.csprojResolveAssemblyReference.cache
+C:\Users\Israel\Source\Repos\parametrosOpcionales\parametrosOpcionales\obj\Debug\parametrosOpcionales.Form1.resources
+C:\Users\Israel\Source\Repos\parametrosOpcionales\parametrosOpcionales\obj\Debug\parametrosOpcionales.Properties.Resources.resources
+C:\Users\Israel\Source\Repos\parametrosOpcionales\parametrosOpcionales\obj\Debug\parametrosOpcionales.csproj.GenerateResource.Cache
+C:\Users\Israel\Source\Repos\parametrosOpcionales\parametrosOpcionales\obj\Debug\parametrosOpcionales.exe
+C:\Users\Israel\Source\Repos\parametrosOpcionales\parametrosOpcionales\obj\Debug\parametrosOpcionales.pdb

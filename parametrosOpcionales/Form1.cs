@@ -16,5 +16,20 @@ namespace parametrosOpcionales
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string a = textBox1.Text;
+            string b = textBox2.Text;
+            showText(a, b);
+
+
+        }
+
+        private void showText(string a = null, string b = null) 
+        {
+            textBox3.Text = a + b;
+        }
+        
     }
 }
