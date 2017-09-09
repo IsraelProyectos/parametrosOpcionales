@@ -19,9 +19,9 @@ namespace parametrosOpcionales
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string a = textBox1.Text;
-            string b = textBox2.Text;
-            showText(a, b);
+            //string a = textBox1.Text;
+            //string b = textBox2.Text;
+            showText("adios");
 
 
         }
