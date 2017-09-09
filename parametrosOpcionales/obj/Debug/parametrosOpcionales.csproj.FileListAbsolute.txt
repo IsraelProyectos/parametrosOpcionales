@@ -1,0 +1,3 @@
+C:\Users\Israel\AppData\Local\Temporary Projects\parametrosOpcionales\bin\Debug\parametrosOpcionales.exe.config
+C:\Users\Israel\Source\Repos\parametrosOpcionaes\parametrosOpcionales\parametrosOpcionales\bin\Debug\parametrosOpcionales.exe.config
+C:\Users\Israel\Source\Repos\parametrosOpcionales\parametrosOpcionales\bin\Debug\parametrosOpcionales.exe.config
